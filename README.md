@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @sinless3
-- A simple nodejs script
-- 
+- 👋 Hi, - This repo is just a simple nodejs script.
+
